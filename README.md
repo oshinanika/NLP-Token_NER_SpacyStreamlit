@@ -10,3 +10,4 @@ This a NLP App that takes an paragraph text and shows
  + Spacy
  + ngrok
  
+ ![ner](https://user-images.githubusercontent.com/8067885/91746084-dca01580-ebdd-11ea-85be-979e5b06f80f.JPG)
