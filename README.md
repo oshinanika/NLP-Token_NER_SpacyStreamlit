@@ -14,6 +14,7 @@ This a NLP App that takes a text and shows
   + Open and ngrok account
   + Go to ngrok dashboard
   + Copy the Authentication Token to use in code
+  
   ![ngrok auth](https://user-images.githubusercontent.com/8067885/93671962-eb853400-fac8-11ea-9e5e-d5fad24fb730.PNG)
   
   
