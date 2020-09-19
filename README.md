@@ -1,3 +1,8 @@
+## She Thinks Code
+This module was instructed by me with She Thinks Code which is a Non-Profit Organization with the aim to encourage and empower beginners in technology and programming. It embraces diversity by reserving 50% seats for women for all its programs and workshops.
+
+Their Link: https://www.facebook.com/shethinkscode/posts/169159511483844
+
 # NLP-Token_NER_SpacyStreamlit
 
 This a NLP App that takes a text and shows 
@@ -11,7 +16,7 @@ This a NLP App that takes a text and shows
  + ngrok
  
  ## To authenticate ngrok
-  + Open and ngrok account
+  + Open a free ngrok account
   + Go to ngrok dashboard
   + Copy the Authentication Token to use in code
   
