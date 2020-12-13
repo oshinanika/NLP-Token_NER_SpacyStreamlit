@@ -3,6 +3,8 @@ This module was instructed by me with She Thinks Code which is a Non-Profit Orga
 
 Their Link: https://www.facebook.com/shethinkscode/posts/169159511483844
 
+![she thinks code](https://user-images.githubusercontent.com/8067885/102024173-9486b680-3dba-11eb-8a48-f70de04ec366.jpg)
+
 # NLP-Token_NER_SpacyStreamlit
 
 This a NLP App that takes a text and shows 
